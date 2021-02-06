@@ -1,0 +1,6 @@
+.screen-wrapper {
+  background-color: rgb(83, 83, 83);
+  width: 800px;
+  padding: 30px;
+  border: 40px solid black;
+}

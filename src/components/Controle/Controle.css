@@ -1,0 +1,30 @@
+.joycon-wrapper {
+  width: 130px;
+  border-radius: 50px 0 0 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.joycon-left {
+  background-color: #47b9dd;
+}
+
+.joycon-right {
+  background-color: #fa5246;
+  width: 130px;
+  border-radius: 0 50px 50px 0;
+}
+
+.action-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.joycon-buttons-side {
+  display: flex;
+  width: 80px;
+  justify-content: space-between;
+}
